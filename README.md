@@ -1,2 +1,2 @@
 # ClasificacionDeRequerimientos
-Camila Zambrano - David Narvaez
+Camila Zambrano 
