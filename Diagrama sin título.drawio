@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="QI2eyzokvkNGWwJYQZhR-0" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Notificaciones de Cambios en la Agenda&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="90" width="300" height="270" as="geometry" />
+          <mxGeometry x="40" y="40" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="QI2eyzokvkNGWwJYQZhR-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;notificacion de cancelacion o reprogramar su cita&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -18,6 +18,309 @@
         </mxCell>
         <mxCell id="QI2eyzokvkNGWwJYQZhR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
           <mxGeometry x="10" y="120" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;notificaciones por correo o SMS.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
+          <mxGeometry y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
+          <mxGeometry x="5" y="170" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;(Botón de configuración de notificaciones)&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
+          <mxGeometry x="20" y="200" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-0">
+          <mxGeometry x="95" y="230" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Modificación de Disponibilidad de Médicos&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="40" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Acceso a lista de médicos y selección de uno.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="14" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="14" y="60" width="266" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Agregar, eliminar o modificar horarios disponibles.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="14" y="90" width="266" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="14" y="130" width="266" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Establecer disponibilidad por día y hora.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="27" y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="14" y="190" width="276" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Mensaje de éxito tras modificación.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="42" y="210" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-10">
+          <mxGeometry x="27" y="250" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Notificación a Pacientes sobre Cambios&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="280" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Envío de notificaciones de disponibilidad&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="20" y="20" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="10" y="50" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;fecha, hora, médico y nueva disponibilidad.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="5" y="70" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="5" y="100" width="255" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-24" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;citas con horarios sugeridos.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="45" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="10" y="150" width="265" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Mensaje de éxito tras modificar disponibilidad.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="-7.5" y="185" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-19">
+          <mxGeometry x="10" y="210" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-28" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Registro del Historial de Citas&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="400" width="360" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Guardar todas las citas programadas.&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="42" y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="14" y="60" width="296" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-31" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Acceso desde &quot;Mis Citas&quot; en perfil del paciente.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="20" y="80" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="14" y="110" width="296" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Mostrar citas en formato claro y ordenado.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="40" y="130" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="14" y="155" width="296" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Mensaje si no hay citas programadas.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="50" y="180" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-28">
+          <mxGeometry x="20" y="210" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Detección de Cancelaciones Repetidas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="810" width="374" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Marcar pacientes que superan el umbral.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry x="30" y="28" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry x="10" y="58" width="290" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Bloqueo temporal de la cuenta y alerta al usuario.&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry x="10" y="80" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry x="10" y="110" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-42" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Mensaje: &quot;Su cuenta ha sido bloqueada, contacte &lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;al administrador&quot;.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry y="150" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-37">
+          <mxGeometry x="20" y="190" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-44" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Notificación a Administradores&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="830" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-45" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Incluir nombre, correo y número de cancelaciones.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="10" y="60" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-47" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Acceso al historial de citas desde la notificación.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry y="80" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="10" y="100" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Permitir desbloqueo de cuenta si es necesario.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="10" y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="5" y="150" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-51" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Registrar acciones del administrador.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="30" y="170" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-44">
+          <mxGeometry x="15" y="200" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-53" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Autenticación de Usuarios&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1150" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-54" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Endpoint de inicio de sesión con credenciales.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="34" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="12.5" y="60" width="327.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-56" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Devuelve token de acceso si son correctas.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="54" y="88" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="12.5" y="120" width="327.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-58" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Mensaje de error si fallan las credenciales.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="44" y="148" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-53">
+          <mxGeometry x="12.5" y="178" width="327.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-60" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Autorización según Roles&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1169" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-61" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Verificar token y rol en cada solicitud.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry x="-5" y="21" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry x="10" y="51" width="210" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-63" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Bloquear acceso si no tiene permisos.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry x="20" y="100" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-65" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Administradores pueden gestionar roles.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-60">
+          <mxGeometry x="20" y="161" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-67" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Encriptación de Datos Personales&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1440" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-68" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Encriptar contraseñas, nombres, direcciones.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="72" y="28" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="15" y="58" width="360" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-71" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Usar algoritmos seguros como AES.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="72" y="88" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="15" y="110" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-72" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Solo usuarios autorizados pueden desencriptar.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="47" y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-67">
+          <mxGeometry x="29.5" y="180" width="355" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-74" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Registro de Actividad de Citas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1470" width="460" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-75" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Registrar cambios en citas con fecha, tipo, &lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;usuario.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="90" y="38" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="25" y="70" width="425" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-77" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Logs accesibles solo para administradores.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="100" y="108" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="10" y="138" width="430" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-79" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Permitir generación de informes de auditoría.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="100" y="158" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-74">
+          <mxGeometry x="27.5" y="188" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-81" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Visualización de Logs de Actividad&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1830" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-82" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Mostrar logs de cambios en citas y perfiles.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-81">
+          <mxGeometry x="60" y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-81">
+          <mxGeometry x="20" y="50" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-84" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Permitir búsqueda por fecha, tipo y usuario.&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-81">
+          <mxGeometry x="60" y="80" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-81">
+          <mxGeometry x="20" y="110" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-86" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Notificación de Cambios no Autorizados&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1830" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-87" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Alertar si se detecta un cambio no autorizado.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="60" y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="30" y="60" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-89" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Incluir detalles: fecha, tipo de cambio, usuario.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="60" y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="40" y="120" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-91" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Configuración de umbrales de notificación.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="50" y="158" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-86">
+          <mxGeometry x="40" y="188" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-93" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Generación de Reportes de Citas Programadas&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="2070" width="355" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-94" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Selección de rango de fechas.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="70" y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="32" y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-96" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Incluir fecha, hora, médico, paciente, estado.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="32" y="110" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="25" y="140" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-98" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Exportación en PDF, CSV, Excel.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="67.5" y="178" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-93">
+          <mxGeometry x="15" y="208" width="325" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-100" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Generación de Reportes de Citas Canceladas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="2120" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-101" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Selección de rango de fechas.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="100" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="10" y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-103" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Incluir fecha, hora, médico, paciente, motivo.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="55" y="98" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="30" y="140" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-106" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exportación en PDF, CSV, Excel.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="75" y="188" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QI2eyzokvkNGWwJYQZhR-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QI2eyzokvkNGWwJYQZhR-100">
+          <mxGeometry x="20" y="210" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
